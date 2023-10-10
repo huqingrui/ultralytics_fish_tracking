@@ -1,3 +1,7 @@
+This is a fish tracking code based on the Ultralytics code https://github.com/ultralytics/ultralytics
+
+How to use it 
+
 1. Split the part1 video into each frame, take the first 10000 frames for yolov8 training, of which 7000 frames are the training set, and the last 3000 frames are the test and val set.
 
 2. The path where the image is stored is shown below.

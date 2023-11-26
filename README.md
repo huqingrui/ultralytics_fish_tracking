@@ -58,3 +58,5 @@ How to use it
 7. The output file will be generated at <yolo8_home>/runs/detect/track_xx when finished.
 
 8. Run the format conversion code("<yolo8_home>/tests/tran_mot_challenge.py") to convert the format to the MOT challenge format.
+
+9. In addition, you can use scripts/trans_point2box.py to change the raw point data to box data
